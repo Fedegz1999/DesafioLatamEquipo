@@ -4,3 +4,9 @@
   background-size: cover;
   background-position: left;
 }
+
+.titulo{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
